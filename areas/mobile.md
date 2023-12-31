@@ -9,3 +9,8 @@ Foca na criação de aplicativos específicos para dispositivos móveis, como sm
 -   React Native
 -   Flutter
 -   Xamarin
+
+## Recursos
+
+-   [Mobile](https://www.youtube.com/playlist?list=PLprgbdnzrDkFKQU25xcc3hM1LsTiALjl_): Playlist do canal Attekita Dev
+-   [Tiago Aguiar](https://www.youtube.com/@TiagoAguiar/videos): Canal do Youtube

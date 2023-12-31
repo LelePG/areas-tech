@@ -8,3 +8,9 @@ IoT refere-se à interconexão de dispositivos físicos pela internet, permitind
 -   Plataformas IoT (ex: AWS IoT, Azure IoT, Google Cloud IoT)
 -   Microcontroladores e Microprocessadores
 -   Sensores e Atuadores
+
+## Recursos
+
+-   [IOT PARA INICIANTES](https://www.youtube.com/watch?v=-ym9zvsQsOo) : Vídeo do canal JuliaLabs no Youtube
+-   [Playlist de aulas de eltrônica](https://www.youtube.com/playlist?list=PLSAdwQju4KkQXnlpIabMDsvxDvJtQour6) : Playlist do canal JuliaLabs no Youtube
+-   [Portal Embarcados](https://embarcados.com.br/)
