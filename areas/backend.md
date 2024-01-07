@@ -14,7 +14,7 @@ Diferentemente da programação frontend, que costuma focar em HTML, CSS e JavaS
 -   MongoDB
 -   MySQL/PostgreSQL
 
-## Recursos
+## Recursos:
 
 -   [Roadmap de Backend (roadmap.sh)](https://roadmap.sh/backend)
 -   [Backend](https://www.youtube.com/playlist?list=PLprgbdnzrDkE-z4ah4jORWhliLpBq4O97): Playlist do canal Attekita Dev no Youtube

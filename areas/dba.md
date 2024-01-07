@@ -9,7 +9,7 @@ Administração de Banco de Dados (DBA) refere-se à gestão eficiente de sistem
 -   Otimização de Consultas
 -   Backup e Recuperação de Dados
 
-## Recursos
+## Recursos:
 
 -   [Introdução a Bancos de Dados](https://www.youtube.com/playlist?list=PL5TJqBvpXQv4m5Uhe5Veq2alDwd_JIJOu): Playlist no Youtube do canal Programação Dinâmica
 -   [O que um DBA Júnior faz? | Podcast DBAOCM](https://www.youtube.com/watch?v=gKsplBD2KNw): Vídeo do canal DBAOCM no canal do Youtube

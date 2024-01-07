@@ -17,7 +17,7 @@ Inteligência Artificial (IA) refere-se à criação de sistemas capazes de real
 -   NLTK (Natural Language Toolkit)
 -   OpenCV
 
-## Recursos
+## Recursos:
 
 -   [Inteligência Artifical Descomplicada](https://www.youtube.com/playlist?list=PL5TJqBvpXQv4vYX3Ki2Kn3MLYIiny1a5H): Playlist do canal Programação Dinâmica no Youtube
 -   [Inteligência Aritifical Aplicada](https://www.youtube.com/playlist?list=PL5TJqBvpXQv6EuU821pKje6q-yfPMO8re): Playlist do canal Programação Dinâmica no Youtube

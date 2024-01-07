@@ -1,6 +1,6 @@
 ## 💡 O que é este projeto?
 
-Este projeto é uma espécie de agregador de informações, para ajudar quem está entrando na área de tecnologia e não sabe pra qual área ir. 
+Este projeto é uma espécie de agregador de informações, para ajudar quem está entrando na área de tecnologia e não sabe pra qual área ir.
 
 O objetivo desse repositório é reunir materiais que forneçam uma noção inicial de diversas áreas dentro da tecnologia para que quem não sabe pra onde quer ir possa conhecer algumas possibilidades e com um pouco de sorte encontrar a sua área.
 
@@ -8,7 +8,7 @@ Caso você queira contribuir com o projeto, dê uma olhada no arquivo [CONTRIBUT
 
 ## 📚 Áreas já abordadas nesse repositório:
 
-[Backend](areas/backend.md) | [Desktop](areas/desktop.md) | [Frontend](areas/frontend.md) | [Inteligência de Negócio](areas/inteligencia-negocio.md) | [Qualidade de Software](areas/qualidade-software.md) | [Ciência de Dados](areas/ciencia-dados.md) | [DevOps](areas/devops.md) | [Full Stack](areas/fullstack.md) | [IoT](areas/iot.md) | [Robótica](areas/robotica.md) | [Computação em Nuvem](areas/cloud.md) | [Sistemas Embarcados](areas/embarcados.md) | [Gestão de TI](areas/gestao-ti.md) | [Desenvolvimento de Jogos](areas/jogos.md) | [Segurança da Informação](areas/seguranca-informacao.md) | [DBA](areas/dba.md) | [Engenharia de Dados](areas/engenharia-dados.md) | [Inteligência Artificial](areas/inteligencia-artificial.md) | [Mobile](areas/mobile.md) | [UI/UX Design](areas/ui-ux.md)
+[Backend](./areas/backend.md) | [Desktop](./areas/desktop.md) | [Frontend](./areas/frontend.md) | [Inteligência de Negócio](./areas/inteligencia-negocio.md) | [Qualidade de Software](./areas/qualidade-software.md) | [Ciência de Dados](./areas/ciencia-dados.md) | [DevOps](./areas/devops.md) | [DevRel](./areas/devrel.md)| [Full Stack](./areas/fullstack.md) | [IoT](./areas/iot.md) | [Robótica](./areas/robotica.md) | [Computação em Nuvem](./areas/cloud.md) | [Sistemas Embarcados](./areas/embarcados.md) | [Gestão de TI](./areas/gestao-ti.md) | [Desenvolvimento de Jogos](./areas/jogos.md) | [Segurança da Informação](./areas/seguranca-informacao.md) | [DBA](./areas/dba.md) | [Engenharia de Dados](./areas/engenharia-dados.md) | [Inteligência Artificial](./areas/inteligencia-artificial.md) | [Mobile](./areas/mobile.md) | [UI/UX Design](./areas/ui-ux.md)
 
 ## 📖 Caso você queira um resumo das áreas já abordadas:
 
@@ -22,6 +22,7 @@ Caso você queira contribuir com o projeto, dê uma olhada no arquivo [CONTRIBUT
 -   [Desenvolvimento Full Stack](./areas/fullstack.md): Profissionais Full Stack têm conhecimento em Frontend e Backend, permitindo que participem de ambas as fases do desenvolvimento de software.
 -   [Desenvolvimento Mobile](./areas/mobile.md): Foca na criação de aplicativos específicos para dispositivos móveis, como smartphones e tablets. O Desenvolvimento Mobile abrange iOS, Android e, cada vez mais, soluções multiplataforma (que funcionam nos dois sistemas).
 -   [DevOps](./areas/devops.md): DevOps é uma prática que combina desenvolvimento (Dev) e operações (Ops), visando a automação e melhoria contínua no ciclo de vida do desenvolvimento de software.
+-   [DevRel](./areas/devrel.md): Quem trabalha com DevRel é responsável pelo relacionamento de uma empresa com a comunidade de desenvolvimento, focando, entre outras coisas, na produção de conteúdo sobre os produtos da empresa.
 -   [Engenharia de Dados](./areas/engenharia-dados.md): Engenharia de Dados envolve o desenvolvimento e a gestão de arquiteturas de dados, garantindo a eficiência e confiabilidade na coleta, processamento e armazenamento de grandes volumes de dados.
 -   [Gestão de TI](./areas/):Gestão de Tecnologia da Informação (TI) engloba o planejamento estratégico, implementação e administração de recursos tecnológicos em uma organização para atender aos objetivos de negócios.
 -   [Inteligência Artificial](./areas/inteligencia-artifical.md): Inteligência Artificial (IA) refere-se à criação de sistemas capazes de realizar tarefas que normalmente exigiriam inteligência humana. Isso inclui aprendizado de máquina, processamento de linguagem natural e visão computacional.

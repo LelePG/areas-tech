@@ -17,7 +17,7 @@ Dentro da área de desenvolvimento desktop, existem várias ferramentas de desen
 -   Java
 -   JavaScript (via Electron)
 
-## Recursos
+## Recursos:
 
 -   [Faz sentido pensar em desenvolvimento desktop em 2022?](https://www.locaweb.com.br/blog/temas/codigo-aberto/desenvolvimento-desktop/): Post no Blog da LocalWeb
 -   [COMPOSE DESKTOP: Como Criar Um App do Zero para Windows, Mac e Linux](https://www.youtube.com/watch?v=y9kaLQWP-hU): Vídeo do canal Tiago Aguiar no Youtube

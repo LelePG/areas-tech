@@ -11,7 +11,7 @@
 -   Angular
 -   Vue.js
 
-## Recursos
+## Recursos:
 
 -   [Front-end: ferramentas, carreiras e mitos do mercado](https://www.youtube.com/watch?v=M51w8zk3QuQ): Painel disponível do canal da Codecon no Youtube
 -   [Front-end](https://www.youtube.com/watch?v=kEcBqbolJu0&list=PLprgbdnzrDkEJ9PFtj6dMfqenx7rqAMe7): Playlist do canal Attekita Dev

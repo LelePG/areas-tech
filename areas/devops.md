@@ -9,7 +9,7 @@ DevOps é uma prática que combina desenvolvimento (Dev) e operações (Ops), vi
 -   Ansible
 -   Terraform
 
-## Recursos
+## Recursos:
 
 -   [Roadmap de Devops (roadmap.sh)](https://roadmap.sh/devops)
 -   [Introdução ao DevOps](https://www.redhat.com/pt-br/topics/devops): Artigo no Blog da Red Hat
